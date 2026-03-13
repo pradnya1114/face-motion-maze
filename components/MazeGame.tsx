@@ -314,7 +314,7 @@ export const MazeGame = () => {
     disabled={!playerName.trim()}
     className="w-full px-4 py-3 text-black font-bold border rounded-md disabled:opacity-50 font-sans tracking-wide uppercase bg-white"
   >
-    Let's Start
+    Let&apos;s Start
   </button>
 </div>
             </div>
